@@ -5,14 +5,15 @@ A readme with a lot of library and docs/articles
 
 - [Blotter.js](https://blotter.js.org/): effect on typography 
 
-
 ## Shaders
 
 - [Book of shaders](https://thebookofshaders.com/): Everything you need to know for doing shaders
+- [CurtainJS](https://www.curtainsjs.com): Shader lib
 
 ## Animation
 
-- [anime.js](https://github.com/juliangarnier/anime/): A simple and complete animation library 
+- [anime.js](https://github.com/juliangarnier/anime/): A simple and complete animation library
+- [GranimJS](https://github.com/sarcadass/granim.js): Complexe gradient background can be animate (repose on canva)
 
 ### Scroll
 
